@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.6",
+  "versionCode": 18,
+  "versionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/haldurdyyewmyrat11-debug/chemistrycalculator/main/Chemistry%20Calculator_1.6.apk",
-  "releaseNotes": "- D.I.Mendeleýewiň Periodik tablissasy goşuldy.\n- Durnuklylyk we tizlik kämilleşdirildi\n- Ýalňyşlyklar düzeldildi"
+  "releaseNotes": "- Reaksiýalaryň görnüşleri göşuldu.\n- PV = (m/M)RT formula Goşuldy.\n- Durnuklylyk we tizlik kämilleşdirildi."
 }
